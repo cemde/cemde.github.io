@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "ML Researcher"
 title_separator          : "-"
 name                     : &name "Cornelius Emde"
 description              : &description "personal description"
@@ -85,8 +85,8 @@ author:
   bio              : "DPhil Student in Machine Learning, CS, Oxford"
   location         : "Oxford, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=Vm1cTNAAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
