@@ -17,23 +17,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Wise Payements Ltd
+  * Developed and deployed Neuralnetwork Business Intelligence models 
+  * Core developer of [Neural-Lifetimes](https://github.com/transferwise/neural-lifetimes)
+  * Forex Predictions using neural networks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Oxford Strategy Group Digital
+  * Senior Consultant
+  * Developing Machine Learning for financial industry client
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Machine Learning
+* Deep Learning
+* Statistics
+  * Frequentist Modelling
+* Bayesian Inference
+  * Classic Applied Bayesian Modelling
+  * Monte Carlo Simulation
+  * Variational Methods 
 * Skill 3
 
 Publications
