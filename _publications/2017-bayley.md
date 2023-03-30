@@ -11,5 +11,3 @@ citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 
 This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0891422217302457)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
