@@ -34,11 +34,13 @@ Skills
 * Machine Learning
 * Deep Learning
 * Statistics
-  * Decision theory
+  * Decision Theory
   * Applied Frequentist and Bayesian Modelling
+  * Time Series
 * Bayesian Inference
   * Monte Carlo Simulation
   * Variational Methods
+  * Bayesian Systems and Statistical Control
 * Computer Vision
 
 Publications
