@@ -17,3 +17,9 @@ My PhD research focuses on:
 - Uncertainty: Getting meaningful uncertainty information from Neural Networks
 - Calibration: Matching predictive distributions with probabilities for interpretable and robust machine learning.
 - Probabistic Deep Learning: Bayesian Deep Learning, Generative Models
+
+My supervisors are:
+
+- [Prof Thomas Lukasiewicz](https://www.cs.ox.ac.uk/people/thomas.lukasiewicz/), Intelligent Systems Lab, Department of Computer Science, University of Oxford
+- [Adel Bibi](https://www.adelbibi.com/), Torr Vision Group, Department of Engineering Science, University of Oxford
+- [Prof Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/), Department of Computer Science, University of Oxford
