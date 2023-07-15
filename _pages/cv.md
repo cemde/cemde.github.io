@@ -43,12 +43,12 @@ Skills
   * Bayesian Systems and Statistical Control
 * Computer Vision
 
-Publications
+<!-- Publications
 ======
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Teaching
 ======
@@ -67,7 +67,8 @@ Repositories
 Service and leadership
 ======
 
-* Created and maintained compute documentation for our resaerch group
+* Created and maintained compute documentation for our research group
 * Mentor at [Project Access](https://projectaccess.org/)
 * Honorary sailing instructor
+* Chair of student representation during my undergraduate degree
 * Winner of a 2016 transatlantic sailing race on the 52-foot yacht "Bank von Bremen"
