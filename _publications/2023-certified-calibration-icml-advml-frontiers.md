@@ -1,7 +1,7 @@
 ---
 title: "Certified Calibration: Bounding Worst-Case Calibration under Adversarial Attacks"
 collection: publications
-permalink: /publication/2023-certified-calibration-icml-advfrontier
+permalink: /publication/2023-certified-calibration-icml-advml-frontiers
 excerpt: ''
 date: 2023-07-28
 venue: 'New Frontiers in Adversarial Machine Learning - ICML'
