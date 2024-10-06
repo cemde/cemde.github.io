@@ -3,7 +3,7 @@ title: "Shh, don't say that! Domain Certification in LLMs"
 collection: publications
 permalink: /publication/2024-domain-certification
 excerpt: ""
-date: 2024-02-07
+date: 2024-10-02
 venue: "Preprint"
 paperurl: ""
 citation: ""
