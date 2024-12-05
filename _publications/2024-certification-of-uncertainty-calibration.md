@@ -1,6 +1,7 @@
 ---
 title: "Towards Certification of Uncertainty Calibration under Adversarial Attacks"
 collection: publications
+category: preprints
 permalink: /publication/2024-certification-of-uncertainty-calibration
 excerpt: ""
 date: 2024-05-22

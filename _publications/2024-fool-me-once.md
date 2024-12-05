@@ -1,6 +1,7 @@
 ---
 title: "Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting"
 collection: publications
+category: conferences
 permalink: /publication/2024-fool-me-once
 excerpt: ""
 date: 2024-05-10

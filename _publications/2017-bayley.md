@@ -1,6 +1,7 @@
 ---
 title: "Difference or delay? A comparison of Bayley-III Cognition item scores of young children with and without developmental disabilities"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-bayley
 excerpt: ""
 date: 2017-12-01

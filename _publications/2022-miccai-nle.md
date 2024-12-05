@@ -1,6 +1,7 @@
 ---
 title: "Explaining Chest X-ray Pathologies in Natural Language"
 collection: publications
+category: conferences
 permalink: /publication/2022-miccai-nle
 excerpt: ""
 date: 2022-10-11

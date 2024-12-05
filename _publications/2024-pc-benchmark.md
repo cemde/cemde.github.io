@@ -1,6 +1,7 @@
 ---
 title: "Benchmarking Predictive Coding Networks – Made Simple"
 collection: publications
+category: preprints
 permalink: /publication/2024-pc-benchmark
 excerpt: ""
 date: 2024-06-05

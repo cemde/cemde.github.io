@@ -1,6 +1,7 @@
 ---
 title: "E-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks"
 collection: publications
+category: conferences
 permalink: /publication/2021-iccv-evil
 excerpt: ""
 date: 2021-10-11
