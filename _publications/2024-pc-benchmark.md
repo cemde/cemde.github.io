@@ -17,6 +17,7 @@ In this work, we tackle the problems of efficiency and scalability for predictiv
 
 ## BibTex
 
+```bibtex
 @misc{pinchetti2024benchmarkingpredictivecodingnetworks,
 title={Benchmarking Predictive Coding Networks -- Made Simple},
 author={Luca Pinchetti and Chang Qi and Oleh Lokshyn and Gaspard Olivers and Cornelius Emde and Mufeng Tang and Amine M'Charrak and Simon Frieder and Bayar Menzat and Rafal Bogacz and Thomas Lukasiewicz and Tommaso Salvatori},
@@ -26,3 +27,4 @@ archivePrefix={arXiv},
 primaryClass={cs.LG},
 url={https://arxiv.org/abs/2407.01163},
 }
+```

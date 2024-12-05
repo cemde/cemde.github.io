@@ -2,11 +2,11 @@
 title: "Explaining Chest X-ray Pathologies in Natural Language"
 collection: publications
 permalink: /publication/2022-miccai-nle
-excerpt: ''
+excerpt: ""
 date: 2022-10-11
-venue: 'Medical Image Computing and Computer Assisted Interventions'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-16443-9_67'
-citation: ''
+venue: "Medical Image Computing and Computer Assisted Interventions"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_67"
+citation: ""
 ---
 
 ## Abstract
@@ -17,6 +17,7 @@ Most deep learning algorithms lack explanations for their predictions, which lim
 
 ## BibTex
 
+```bibtex
 @InProceedings{Kayser_2022_MICCAI,
     author    = {Kayser, Maxime and Emde, Cornelius and Camburu, Oana-Maria and Parsons, Guy, and Papiez, Bartlomiej and Lukasiewicz, Thomas},
     title     = {Explaining Chest X-ray Pathologies in Natural Language},
@@ -25,3 +26,4 @@ Most deep learning algorithms lack explanations for their predictions, which lim
     year      = {2022},
     pages     = {}
 }
+```

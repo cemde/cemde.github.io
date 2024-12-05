@@ -19,6 +19,7 @@ Link to paper TBD.
 
 ## BibTex
 
+```bibtex
 @inproceedings{kayser_fool_2024,
 title = {Fool {Me} {Once}? {Contrasting} {Textual} and {Visual} {Explanations} in a {Clinical} {Decision}-{Support} {Setting}},
 shorttitle = {Fool {Me} {Once}?},
@@ -30,3 +31,4 @@ author = {Kayser, Maxime Guillaume and Menzat, Bayar and Emde, Cornelius and Ber
 month = sep,
 year = {2024},
 }
+```
