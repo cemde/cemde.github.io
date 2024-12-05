@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-domain-certification
 excerpt: ""
 date: 2024-10-02
-venue: "Socially Responsible Language Modelling Research (SoLaR) workshop @ NeurIPS 2024"
+venue: "Socially Responsible Language Modelling Research (SoLaR) workshop @ NeurIPS"
 paperurl: "https://cemde.github.io/files/emde-2024-domain-certification.pdf"
 citation: ""
 ---
@@ -19,6 +19,7 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 
 ## BibTex
 
+```
 @inproceedings{emde_shh_2024,
 title = {Shh, don't say that! {Domain} {Certification} in {LLMs}},
 url = {https://openreview.net/forum?id=brDLUmZJ1E},
@@ -36,3 +37,4 @@ a simple yet effective approach which we call VALID that provides adversarial
 bounds as a certificate. Finally, we evaluate our method across a diverse set of
 datasets, demonstrating that it yields meaningful certificates.},
 }
+```
