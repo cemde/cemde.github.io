@@ -19,7 +19,7 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 
 ## BibTex
 
-```
+```bibtex
 @inproceedings{emde_shh_2024,
 title = {Shh, don't say that! {Domain} {Certification} in {LLMs}},
 url = {https://openreview.net/forum?id=brDLUmZJ1E},
