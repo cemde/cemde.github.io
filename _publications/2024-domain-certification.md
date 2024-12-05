@@ -15,7 +15,7 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 
 <!-- [Download paper here]() -->
 
-Paper Link TBD
+[Download paper here](https://cemde.github.io/files/emde-2024-domain-certification.pdf)
 
 ## BibTex
 
