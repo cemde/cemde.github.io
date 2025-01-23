@@ -25,8 +25,8 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 title = {Shh, don't say that! {Domain} {Certification} in {LLMs}},
 url = {https://openreview.net/forum?id=brDLUmZJ1E},
 booktitle = {Workshop on {Socially} {Responsible} {Language} {Modelling} {Research}},
-author = {Emde, Cornelius and Arvind, Preetham and Paren, Alasdair and Kayser, Maxime and Rainforth, Tom and Lukasiewicz, Thomas and Torr, Philip and Bibi, Adel},
-booktitle={The Thirteen International Conference on Learning Representations (ICLR)},
+author = {Emde, Cornelius and Arvind, Preetham and Paren, Alasdair and Kayser, Maxime and Rainforth, Tom and Lukasiewicz, Thomas and Ghanem, Bernard and Torr, Philip and Bibi, Adel},
+booktitle={The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025},
 abstract = {Large language models (LLMs) are often deployed to perform constrained tasks,
 with narrow domains. For example, customer support bots can be built on top

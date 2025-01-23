@@ -22,7 +22,7 @@ In this work, we tackle the problems of efficiency and scalability for predictiv
 @misc{pinchetti2024benchmarkingpredictivecodingnetworks,
 title={Benchmarking Predictive Coding Networks -- Made Simple},
 author={Luca Pinchetti and Chang Qi and Oleh Lokshyn and Gaspard Olivers and Cornelius Emde and Mufeng Tang and Amine M'Charrak and Simon Frieder and Bayar Menzat and Rafal Bogacz and Thomas Lukasiewicz and Tommaso Salvatori},
-booktitle={The Thirteen International Conference on Learning Representations (ICLR)},
+booktitle={The Thirteenth International Conference on Learning Representations (ICLR)},
 year={2025},
 eprint={2407.01163},
 archivePrefix={arXiv},

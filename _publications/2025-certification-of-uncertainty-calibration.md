@@ -22,7 +22,7 @@ Since neural classifiers are known to be sensitive to adversarial perturbations 
 @misc{emde2024certification,
 title={Towards Certification of Uncertainty Calibration under Adversarial Attacks},
 author={Cornelius Emde and Francesco Pinto and Thomas Lukasiewicz and Philip H. S. Torr and Adel Bibi},
-booktitle={The Thirteen International Conference on Learning Representations (ICLR)},
+booktitle={The Thirteenth International Conference on Learning Representations (ICLR)},
 year={2025},
 eprint={2405.13922},
 archivePrefix={arXiv},
