@@ -16,7 +16,7 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 
 <!-- [Download paper here]() -->
 
-[Download paper here](https://cemde.github.io/files/emde-2024-domain-certification.pdf)
+Refer to the extended ICLR 2025 version to download the work.
 
 ## BibTex
 
@@ -25,7 +25,7 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 title = {Shh, don't say that! {Domain} {Certification} in {LLMs}},
 url = {https://openreview.net/forum?id=brDLUmZJ1E},
 booktitle = {Workshop on {Socially} {Responsible} {Language} {Modelling} {Research}},
-author = {Emde, Cornelius and Arvind, Preetham and Paren, Alasdair and Kayser, Maxime and Rainforth, Tom and Lukasiewicz, Thomas and Torr, Philip and Bibi, Adel},
+author = {Emde, Cornelius and Arvind, Preetham and Paren, Alasdair and Kayser, Maxime and Rainforth, Tom and Lukasiewicz, Thomas and Ghanem, Bernard and Torr, Philip and Bibi, Adel},
 year = {2024},
 abstract = {Large language models (LLMs) are often deployed to perform constrained tasks,
 with narrow domains. For example, customer support bots can be built on top
