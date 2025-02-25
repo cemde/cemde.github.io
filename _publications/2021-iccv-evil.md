@@ -3,7 +3,7 @@ title: "E-ViL: A Dataset and Benchmark for Natural Language Explanations in Visi
 collection: publications
 category: conferences
 permalink: /publication/2021-iccv-evil
-excerpt: ""
+excerpt: "We introduce e-ViL, a comprehensive benchmark for evaluating natural language explanations in vision-language tasks, and e-SNLI-VE, the largest dataset of its kind. We also propose a novel model that significantly outperforms previous approaches, advancing explainable AI for vision-language understanding."
 date: 2021-10-11
 venue: "International Conference on Computer Vision (ICCV)"
 paperurl: "https://openaccess.thecvf.com/content/ICCV2021/papers/Kayser_E-ViL_A_Dataset_and_Benchmark_for_Natural_Language_Explanations_in_ICCV_2021_paper.pdf"

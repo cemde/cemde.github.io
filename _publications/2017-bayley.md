@@ -3,7 +3,7 @@ title: "Difference or delay? A comparison of Bayley-III Cognition item scores of
 collection: publications
 category: manuscripts
 permalink: /publication/2017-bayley
-excerpt: ""
+excerpt: "We demonstrate that children with developmental disabilities develop cognitive skills in a different order than typically developing children, which violates the assumptions of item response theory. This challenges the validity of developmental tests like the Bayley-III that presume a fixed sequence of skill acquisition."
 date: 2017-12-01
 venue: "Research in Developmental Disabilities"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0891422217302457"

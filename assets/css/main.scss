@@ -44,6 +44,14 @@ h3 {
     font-size: calc(1em + 1pt);
   }
 
+h2 {
+    font-size: calc(1em - 1pt);
+  }
+
 .list__item {
     padding-bottom: 10px;
+  }
+
+hr {
+    border-top: 1px solid #cfcfcf;
   }
