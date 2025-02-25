@@ -3,7 +3,7 @@ title: "Applied Machine Learning"
 collection: teaching
 type: "Doctoral Seminar"
 permalink: /teaching/2023-bdi-ml
-venue: "University of Oxford, Big Data Institute"
+venue: "Big Data Institute, University of Oxford"
 date: 2023-09-01
 location: "Oxford, United Kingdom"
 role: "Class Tutor"
