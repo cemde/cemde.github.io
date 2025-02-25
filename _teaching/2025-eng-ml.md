@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 collection: teaching
-type: "final year undergraduate course"
+type: "Final Year Undergraduate Course"
 permalink: /teaching/2025-eng-ml
 venue: "University of Oxford, Department of Engineering Science"
 date: 2025-02-01
