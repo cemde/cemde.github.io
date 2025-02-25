@@ -43,12 +43,6 @@ redirect_from:
   - Bayesian Systems and Statistical Control
 - Computer Vision
 
-# Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 # Reviewer
 
 - ICLR 2025 Reviewer
@@ -66,6 +60,12 @@ redirect_from:
 - Honorary sailing instructor
 - Chair of student representation during my undergraduate degree
 - Winner of a 2016 transatlantic sailing race on the 52-foot yacht "Bank von Bremen"
+
+# Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 # Publications
 
