@@ -40,10 +40,10 @@
 
         {% if post.collection == 'teaching' %}
           <p>
-            <strong>Type:</strong> {{ page.type }}<br />
-            <strong>Department:</strong> {{ page.department }}<br />
-            <strong>Year:</strong> {{ page.date | default: "1900-01-01" | date: "%Y" }}<br />
-            <strong>Role:</strong> {{ page.role }}
+            <strong>Type:</strong> {{ post.type }}<br />
+            <strong>Department:</strong> {{ post.department }}<br />
+            <strong>Year:</strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}<br />
+            <strong>Role:</strong> {{ post.role }}
           </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
