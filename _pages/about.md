@@ -29,4 +29,4 @@ News:
 
 - [February 2025] I am fortunate to have 3 papers accepted into ICLR 2025 including 1 spotlight.
 - [November 2024] I have contributed to an amazing effort lead by Maxime Kayser that won an EMNLP 2024 outstanding paper award.
-- [June 2024] I working with Bernard Ghanem [https://www.bernardghanem.com] at KAUST.
+- [June 2024] I working with [Bernard Ghanem](https://www.bernardghanem.com) at KAUST.
