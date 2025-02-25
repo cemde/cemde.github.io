@@ -3,7 +3,7 @@ title: "Certified Calibration: Bounding Worst-Case Calibration under Adversarial
 collection: publications
 category: workshops
 permalink: /publication/2023-certified-calibration-icml-advml-frontiers
-excerpt: ""
+excerpt: "We introduce certified calibration, a novel approach providing worst-case bounds on neural classifier confidence under adversarial attacks. We demonstrate that existing defences do not protect calibration sufficiently, and provide analytic bounds for the Brier score and approximate bounds for Expected Calibration Error using mixed integer nonlinear programming."
 date: 2023-07-28
 venue: "New Frontiers in Adversarial Machine Learning - ICML"
 paperurl: "https://cemde.github.io/files/emde-2023-certified-calibration.pdf"

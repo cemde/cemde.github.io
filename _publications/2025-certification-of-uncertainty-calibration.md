@@ -3,7 +3,7 @@ title: "Towards Certification of Uncertainty Calibration under Adversarial Attac
 collection: publications
 category: conferences
 permalink: /publication/2025-certification-of-uncertainty-calibration
-excerpt: ""
+excerpt: "We tackle the vulnerability of uncertainty quantification in neural classifiers to adversarial attacks and thus propose certified calibration to provide worst-case bounds on confidence under perturbations. We develop novel calibration attacks that enable adversarial calibration training, demonstrating improved model uncertainty quantification in safety-critical applications."
 date: 2025-01-22
 venue: "International Conference on Learning Representations (ICLR)"
 paperurl: "https://arxiv.org/abs/2405.13922"

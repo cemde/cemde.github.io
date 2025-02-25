@@ -3,7 +3,7 @@ title: "Benchmarking Predictive Coding Networks – Made Simple"
 collection: publications
 category: conferences
 permalink: /publication/2025-pc-benchmark
-excerpt: "Introducing a benchmark and library for Predictive Coding"
+excerpt: "We benchmark predictive coding networks extensively on large-scale tasks, providing critical insights into state-of-the-art performance limitations and theoretical challenges that must be addressed. We introduce PCX, a super fast and flexible open-source library that emphasizes performance and simplicity with a user-friendly interface, enabling the community to overcome fragmentation and tackle the critical scalability challenge."
 date: 2025-01-22
 venue: "International Conference on Learning Representations (ICLR)"
 paperurl: "https://arxiv.org/pdf/2407.01163.pdf"

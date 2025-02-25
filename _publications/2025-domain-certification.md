@@ -3,7 +3,7 @@ title: "Shh, don't say that! Domain Certification in LLMs"
 collection: publications
 category: conferences
 permalink: /publication/2025-domain-certification
-excerpt: "Introducing a new safety paradigm and provable adversarial defenses for LLMs."
+excerpt: "We introduce domain certification, a new safety paradigm focusing on risk control for LLMs. We provide formal a guarantee that accurately characterizes when language models stay within their intended operational boundaries. We demonstrate a effective test-time algorithm, VALID, that provides scalable defenses for foundation models."
 date: 2025-01-22
 venue: "International Conference on Learning Representations (ICLR)"
 paperurl: ""

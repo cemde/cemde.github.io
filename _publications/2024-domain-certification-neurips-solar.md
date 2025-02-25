@@ -3,7 +3,7 @@ title: "Shh, don't say that! Domain Certification in LLMs"
 collection: publications
 category: workshops
 permalink: /publication/2024-domain-certification
-excerpt: "Introducing a new safety paradigm and provable adversarial defenses for LLMs."
+excerpt: "We introduce domain certification, a formal guarantee that accurately characterizes when language models stay within their intended operational boundaries. We demonstrate VALID, our effective approach that provides provable defense against adversarial inputs through meaningful certificates that ensure models remains within its intended domain, even under attack."
 date: 2024-10-02
 venue: "Socially Responsible Language Modelling Research (SoLaR) workshop @ NeurIPS"
 paperurl: ""

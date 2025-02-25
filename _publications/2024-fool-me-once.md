@@ -3,7 +3,7 @@ title: "Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical 
 collection: publications
 category: conferences
 permalink: /publication/2024-fool-me-once
-excerpt: "Testing the clinical utility of XAI."
+excerpt: "We investigate human-AI interaction by studying how healthcare professionals use different explanation types during chest X-ray analysis, finding text explanations induce over-reliance while multimodal approaches improve safety. This work marks a major step towards studying patient utility."
 date: 2024-05-10
 venue: "Empirical Methods in Natural Language Processing (EMNLP)"
 paperurl: ""

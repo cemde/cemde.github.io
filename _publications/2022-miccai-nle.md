@@ -3,7 +3,7 @@ title: "Explaining Chest X-ray Pathologies in Natural Language"
 collection: publications
 category: conferences
 permalink: /publication/2022-miccai-nle
-excerpt: ""
+excerpt: "We introduce MIMIC-NLE, the first dataset with natural language explanations for chest X-ray predictions, enabling intrinsically explainable medical AI. We demonstrate how these human-friendly explanations address critical limitations in current systems, potentially accelerating clinical adoption."
 date: 2022-10-11
 venue: "Medical Image Computing and Computer Assisted Interventions"
 paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_67"
