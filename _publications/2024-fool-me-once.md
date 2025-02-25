@@ -3,11 +3,12 @@ title: "Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical 
 collection: publications
 category: conferences
 permalink: /publication/2024-fool-me-once
-excerpt: "Testing the clinical utility of XAI (EMNLP Outstanding Paper Award)."
+excerpt: "Testing the clinical utility of XAI."
 date: 2024-05-10
 venue: "Empirical Methods in Natural Language Processing (EMNLP)"
 paperurl: ""
 citation: ""
+award: "EMNLP Outstanding Paper Award"
 ---
 
 ## Abstract

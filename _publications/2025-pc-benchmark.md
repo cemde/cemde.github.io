@@ -3,11 +3,12 @@ title: "Benchmarking Predictive Coding Networks – Made Simple"
 collection: publications
 category: conferences
 permalink: /publication/2025-pc-benchmark
-excerpt: "Introducing a benchmark and library for Predictive Coding (ICLR Spotlight)"
+excerpt: "Introducing a benchmark and library for Predictive Coding"
 date: 2025-01-22
 venue: "International Conference on Learning Representations (ICLR)"
 paperurl: "https://arxiv.org/pdf/2407.01163.pdf"
 citation: ""
+award: "ICLR Spotlight"
 ---
 
 ## Abstract
