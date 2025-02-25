@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-- Ph.D in Computer Science, University of Oxford, 2024 (expected)
+- Ph.D in Computer Science, University of Oxford, 2025 (expected)
 - MSc in Statistics, University of Warwick, 2018
 - BSc in Psychlogy, University of Groningen, 2017
 
@@ -31,6 +31,8 @@ redirect_from:
 
 - Machine Learning
 - Deep Learning
+- Large Language Models
+- Safety and Robustness of ML Systems
 - Statistics
   - Decision Theory
   - Applied Frequentist and Bayesian Modelling
@@ -40,12 +42,6 @@ redirect_from:
   - Variational Methods
   - Bayesian Systems and Statistical Control
 - Computer Vision
-
-# <!-- Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 # Teaching
 
@@ -70,3 +66,9 @@ redirect_from:
 - Honorary sailing instructor
 - Chair of student representation during my undergraduate degree
 - Winner of a 2016 transatlantic sailing race on the 52-foot yacht "Bank von Bremen"
+
+# Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
