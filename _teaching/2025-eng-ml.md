@@ -8,7 +8,7 @@ date: 2025-02-01
 location: "Oxford, United Kingdom"
 ---
 
-### Practical Instructor
+**Practical Instructor**
 
 - Instructing students to implement machine learning algorithms in Python.
 - Marking solutions to problem sheets.
