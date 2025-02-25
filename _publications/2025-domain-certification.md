@@ -3,7 +3,7 @@ title: "Shh, don't say that! Domain Certification in LLMs"
 collection: publications
 category: conferences
 permalink: /publication/2025-domain-certification
-excerpt: "Introducing a new safety paradigm for LLMs."
+excerpt: "Introducing a new safety paradigm and provable adversarial defenses for LLMs."
 date: 2025-01-22
 venue: "International Conference on Learning Representations (ICLR)"
 paperurl: ""
