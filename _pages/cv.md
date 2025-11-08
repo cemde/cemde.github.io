@@ -17,6 +17,13 @@ redirect_from:
 
 # Work experience
 
+- ParameterLab (August 2025 - January 2026)
+
+  - Resaerch Scientist Intern
+  - Working on uncertainty quantification in multi-agent systems
+  - Working on evaluation of agentic AI
+  - Supervisor: [Seong Joon Oh](https://seongjoonoh.com)
+
 - Wise Payements (February to June 2022)
 
   - Core developer of [Neural-Lifetimes](https://github.com/transferwise/neural-lifetimes). This library enables customer transactions prediction for various downstream applications using PyTorch.

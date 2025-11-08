@@ -16,7 +16,7 @@ Large language models (LLMs) are often deployed to do constrained tasks, with na
 
 <!-- [Download paper here]() -->
 
-[Download paper here](https://openreview.net/forum?id=F64wTvQBum) Final version to be uploaded soon!
+[Download paper here](https://arxiv.org/abs/2502.19320)
 
 ## BibTex
 
