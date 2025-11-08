@@ -4,11 +4,10 @@ collection: publications
 category: conferences
 permalink: /publication/2025-measuring-what-matters
 excerpt: "We systematically reviewed 445 LLM benchmarks and found that many measures lack construct validity, especially for abstract goals like safety and robustness, leading to unreliable claims about model capabilities. They outline eight recommendations with practical guidance to design benchmarks that better align tasks and scoring with the phenomena they aim to measure."
-date: 2025-01-22
+date: 2025-11-01
 venue: "Conference on Neural Information Processing Systems (NeurIPS)"
 paperurl: "https://openreview.net/pdf?id=mdA5lVvNcU"
 citation: ""
-award: ""
 ---
 
 ## Abstract

@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-- Ph.D in Computer Science, University of Oxford, 2025 (expected)
+- Ph.D in Computer Science, University of Oxford, 2025
 - MSc in Statistics, University of Warwick, 2018
 - BSc in Psychlogy, University of Groningen, 2017
 
@@ -22,7 +22,7 @@ redirect_from:
   - Resaerch Scientist Intern
   - Working on uncertainty quantification in multi-agent systems
   - Working on evaluation of agentic AI
-  - Supervisor: [Seong Joon Oh](https://seongjoonoh.com)
+  - Supervisor: [Prof Seong Joon Oh](https://seongjoonoh.com)
 
 - Wise Payements (February to June 2022)
 

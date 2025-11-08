@@ -29,7 +29,7 @@ News:
 
 - [November 2025] Our work "Measuring what Matters" has been accepted at NurIPS 2025 and been featured in [The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness) and [NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969).
 - [November 2025] I sucessfully defeneded my PhD thesis at the University Oxford.
-- [August 2025] Excited to start working with [Seong Joon Oh](https://seongjoonoh.com) at ParameterLab.
+- [August 2025] Excited to start working with [Prof Seong Joon Oh](https://seongjoonoh.com) as intern at ParameterLab.
 - [February 2025] I am fortunate to have 3 papers accepted into ICLR 2025 including 1 spotlight.
 - [November 2024] I have contributed to an amazing effort lead by Maxime Kayser that won an EMNLP 2024 outstanding paper award.
 - [June 2024] I working with [Bernard Ghanem](https://www.bernardghanem.com) at KAUST.
