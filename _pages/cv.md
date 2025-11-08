@@ -53,6 +53,7 @@ redirect_from:
 # Reviewer
 
 - ICLR 2025 Reviewer
+- ICCV 2025 Workshop on Safe and Trustworthy Multimodal AI Systems
 
 # Repositories
 
