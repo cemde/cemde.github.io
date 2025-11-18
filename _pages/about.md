@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Machine Learning at the Univeristy of Oxford interested in AI Safety. I am currently looking for internship and full-time research positions.
+Machine Learning PhD @ Univeristy of Oxford | Intern at ParameterLab | AI Safety | ML Robustness
+
+I am currently looking for full-time research positions.
 
 My PhD research focuses on:
 
