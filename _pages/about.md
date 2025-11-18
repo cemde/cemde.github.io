@@ -27,6 +27,7 @@ My supervisors are:
 
 News:
 
+- [November 2025] The pre-release of our new multi-agent evaluation library `maseval` is out. [Repository](https://github.com/parameterlab/MASEval) and [Documentation](https://maseval.readthedocs.io/en/stable/) are online.
 - [November 2025] Our work "Measuring what Matters" has been accepted at NurIPS 2025 and been featured in [The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness) and [NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969).
 - [November 2025] I sucessfully defeneded my PhD thesis at the University Oxford.
 - [August 2025] Excited to start working with [Prof Seong Joon Oh](https://seongjoonoh.com) as intern at ParameterLab.
