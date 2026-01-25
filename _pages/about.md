@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning PhD @ Univeristy of Oxford | Intern at ParameterLab | AI Safety | ML Robustness
+Machine Learning PhD @ Univeristy of Oxford - Intern at ParameterLab - AI Safety and Security - ML Robustness
 
 I am currently looking for full-time research positions.
 
-My PhD research focuses on:
+My research focuses on:
 
-- Robustness: Ensuring ML methods predict with certain garuantees and do not fail unpredictedly in safety relevant applications.
+- AI Safety & Security: Ensuring generative AI systems adhere to operational boundaries.
+- Agentic AI: Robustness, evaluation and safety of multi-agent systems
 - Uncertainty: Getting meaningful uncertainty measurements from neural networks.
+- Robustness: Ensuring ML methods predict with certain garuantees and do not fail unpredictedly in safety relevant applications.
 - Calibration: Matching predictive distributions with probabilities for interpretable and robust machine learning.
 - Probabistic Deep Learning: Bayesian Deep Learning, Generative Models
 - Medical Machine learning: Applications of machine learning in personalised medicine. Interpretability of multimodal models in clinical practice.
@@ -29,7 +31,8 @@ My supervisors are:
 
 News:
 
-- [November 2025] The pre-release of our new multi-agent evaluation library `maseval` is out. [Repository](https://github.com/parameterlab/MASEval) and [Documentation](https://maseval.readthedocs.io/en/stable/) are online.
+- [January 2026] New preprint on [Privacy Collapse](https://arxiv.org/abs/2601.15220): benign fine-tuning can break contextual privacy in language models.
+- [November 2025] Our new multi-agent evaluation library `maseval` is out. Find out more: [Repository](https://github.com/parameterlab/MASEval), [Documentation](https://maseval.readthedocs.io/en/stable/), and [PyPI](https://pypi.org/project/maseval/).
 - [November 2025] Our work "Measuring what Matters" has been accepted at NurIPS 2025 and been featured in [The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness) and [NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969).
 - [November 2025] I sucessfully defeneded my PhD thesis at the University Oxford.
 - [August 2025] Excited to start working with [Prof Seong Joon Oh](https://seongjoonoh.com) as intern at ParameterLab.
