@@ -60,6 +60,8 @@ redirect_from:
 - [FleissKappa](https://github.com/cemde/FleissKappa) a `torchmetrics` compatible implementation of FleissKappa.
 - [FilenameManager](https://github.com/cemde/FilenameManager) a very light-weight Python library that uses configuration parameters to create filenames and can convert filenames to parameters. Useful for saving ML experiment data to disk without database.
 - [LiteralCopy](https://github.com/cemde/CopySyntax/) a simple Python library that takes existing objects in memory and returns a string with the syntax to recreate that object. Supports base Python, NumPy and PyTorch.
+- [MASEval](https://github.com/parameterlab/MASEval) an evaluation harness built for multi-agent systems.
+- [WhatsNext](https://github.com/cemde/WhatsNext) An API (Server + Client) as task queue for AI / ML experiments that requires no local permissions and client can be deployed on outdated academic servers with no permissions. Lightweight and functional.
 
 # Service and leadership
 

@@ -19,9 +19,11 @@ We identify a novel phenomenon in language models: benign fine-tuning of frontie
 ## BibTex
 
 ```bibtex
-@misc{goel2026privacycollapsebenignfinetuning,
+@misc{goel2026privacycollapse,
       title={Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models},
       author={Anmol Goel and Cornelius Emde and Sangdoo Yun and Seong Joon Oh and Martin Gubri},
+      booktitle = "Proceedings of the 31st International Conference on Computational Linguistics (ACL)",
+      publisher = "Association for Computational Linguistics",
       year={2026},
       eprint={2601.15220},
       archivePrefix={arXiv},
