@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-maseval
 excerpt: "We identify privacy collapse, a novel phenomenon where benign fine-tuning of frontier models degrades contextual privacy reasoning. Fine-tuned models share information inappropriately with tools and violate memory boundaries, while maintaining high performance on standard safety benchmarks. Our mechanistic analysis reveals that privacy representations are uniquely fragile to fine-tuning."
-date: 2025-01-22
+date: 2026-03-01
 venue: "arXiv preprint"
-paperurl: "https://arxiv.org/pdf/2601.15220.pdf"
+paperurl: "https://arxiv.org/pdf/2603.08835"
 citation: ""
 ---
 
