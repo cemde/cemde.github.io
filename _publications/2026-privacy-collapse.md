@@ -1,7 +1,7 @@
 ---
 title: "Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-privacy-collapse
 excerpt: "We identify privacy collapse, a novel phenomenon where benign fine-tuning of frontier models degrades contextual privacy reasoning. Fine-tuned models share information inappropriately with tools and violate memory boundaries, while maintaining high performance on standard safety benchmarks. Our mechanistic analysis reveals that privacy representations are uniquely fragile to fine-tuning."
 date: 2025-01-22
