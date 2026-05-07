@@ -31,7 +31,7 @@ My supervisors are:
 
 News:
 
-- [April 2026] Our paper [MASEval: Extending Multi-Agent Evaluation from Models to Systems](https://arxiv.org/abs/2603.08835) showing the importance of harness engineering is out on arXiv.
+- [April 2026] Our paper [MASEval: Extending Multi-Agent Evaluation from Models to Systems](https://arxiv.org/abs/2603.08835) has been accepted to ACL Demo 2026. The paper details our [MASEVal library](https://github.com/parameterlab/MASEval) and shows the importance of harness engineering.
 - [April 2026] Our work [Privacy Collapse](https://arxiv.org/abs/2601.15220): benign fine-tuning can break contextual privacy in language models has been accepted to ACL 2026.
 - [November 2025] Our new multi-agent evaluation library `maseval` is out. Find out more: [Repository](https://github.com/parameterlab/MASEval), [Documentation](https://maseval.readthedocs.io/en/stable/), and [PyPI](https://pypi.org/project/maseval/).
 - [November 2025] Our work "Measuring what Matters" has been accepted at NurIPS 2025 and been featured in [The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness) and [NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969).
